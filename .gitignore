@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Firebase Service Account Key (Sensitive, should not be committed)
+backend/keys/service-account.json
+
+# Firebase config (Optional: for frontend Firebase configuration)
+src/firebaseConfig.js
+
+# Frontend build files
+frontend/build/
+frontend/.env
+
+# React and extension build files
+extension/build/
+extension/dist/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependency directories and lock files (optional, if you use yarn)
+yarn.lock
+package-lock.json
+
+# Cloud storage temporary files
+*.swp
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ignore Google Cloud JSON keys (if stored in the project)
+**/service-account.json

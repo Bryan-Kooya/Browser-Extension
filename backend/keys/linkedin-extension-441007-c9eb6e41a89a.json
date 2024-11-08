@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "linkedin-extension-441007",
+  "private_key_id": "c9eb6e41a89aab23061e40c721739ce97af51efa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD2N9wEckXFRAf4\n+NujFu1Y+92h1HyeyUH20I79aWolfKUxGZCGCn3oJol7HSxMOY0KGBlcu3kUvo3D\nbAIMiyATdOCKA7YU349uhsvqMfrBc8HATXKx9RISnTEWDdf5wq0V/HArbRMo1yBN\nHkdxl+5O6XuMfoK7jSz4eEDJxqoVvleLXGQVZF2Nx7FsJuBeF1a8sjqLTSVnN2ig\nDGpvnAkVZ0efNBuWQXy3FLrq/iOD0DIsa5YFuaiV086EIe64c5Gs5/qP30uqrH6Z\nJ4S+YxQmCjoUJeEZM01+b6DtlJ0If6bqD7jUAxf+P0e+gfIRW2X43UaIMt/i9tdW\nUMh+zaHdAgMBAAECggEAMXZAQz5niLzlcx0fFlC9RoJ2YBOtI0Lf9wKnrv21vqkf\nEFGH6H2EFJZlSO+v3fIzxKLZuXjJ1qJ/HRJ+COIMBAyXLPKY6fGNQVFf9oCq1KD5\n+7UzRM+sHUQpv7nxOLHkjoWjTP4A+tPYn9Vk2cuBKqYZ1Tv27FFshs+1iDNaKLqq\nwOJP3tfeRwtw48I38d+P5diRovvGnzEAs1nV0icyWl8IfdbLHomYMUhvq6LQpFl3\n7kI5Ne1UYyPc4Wn/lom5OMHA50QUfjLRAa6BtFwR/fyrcqjmJzRtFpK/d07Gock6\nBdRGJvJ1N1ErLulnndEXE2twpWtHS1YKwkcKmp+28QKBgQD8zDmG3kgES5aMadc+\nBkY/jblRTLgPgyXNf24Ft1xzYUAIzgjwr+BDlUTegVNhlPJw6lBHU5fcbQeKXi3f\nvPd5NuShi6vOIY95Dw8L5v8nPnMv651bvzhovh5luWK67zl/me0mPr8W8ku4PFJ2\nVdfIt3CwHrn1qrXMXu6SY67SiQKBgQD5VkxpofIBXrQWPKIu1GO1YMzXA5Q1XOVm\ngMW6Ep4YjlDmEttx4uUfStj9v9izOslBM0lpWgbrMZx69Si5gKLr88rAKSf+VRA+\nEL2W5VYrzq2YzHcfGWSKfRmW3YtXCc74eq8jngN+MBT+72etmp6Jorc5mF1lfNHJ\nrKHTwsbPtQKBgBdPUYKhHmze92vNGp7Kf1G+5LadZ19uzV6MgH2gcbLl5byqGuLu\npLQ2oFoP/LtDu7Mzt+FL0PXvS8Gze3FlAEC6EgzfTyE7sPoNrGqBi0d4F7D0fdcG\n49GsrirdFEB+bIPakqZzJLWd8+NyFHx63+HPIGHtA2Kmsgq9OixfarBZAoGBALoD\nvPwtmnuVKKtSTvi68Sw27HsYq3BoPqiLN3hLPXE6c3ZB6T98s8z1rQ8aGlQUbmLb\nHVCgnnrGx2QgFGLYajO37LIRwkmHMpfrK1YxAGmsRmyxVcl4yz5aeEXKQJMNuUA9\nXv4me5qfynorJ2En8lDieOlaF4uIZIad6RkvvdzlAoGBAPqigvrEcF6Q0zGfH56s\nwy0oatEFwNWsm4nK0q3KBnfI0mBFzQqHI83F4X+TJIRIWqDwh3+H9vwSKVurImIB\n+Hi9ocakHRXu7BiY4TWt7XECobGDQeAOOyENCqcJ9V8OaNwBFBkO3tdFTRt4kpAK\n0QLZCnYuGliHNmtxRUSrd2T1\n-----END PRIVATE KEY-----\n",
+  "client_email": "extension-service-account@linkedin-extension-441007.iam.gserviceaccount.com",
+  "client_id": "110527795861242129406",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/extension-service-account%40linkedin-extension-441007.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
